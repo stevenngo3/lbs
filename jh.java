@@ -1,6 +1,7 @@
 public class jh{
 
-
-// hi
+    public static int sub(int n, int m){
+        return n-m;
+    }
 
 }
